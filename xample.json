@@ -1,7 +1,10 @@
-[
-{
-"id": "1",
-"image_title":"Landscape",
-"image_url":"https://maxcdn.icons8.com/app/uploads/2019/06/digital-illustration-brian-edward-miller-8.jpg",
-}
-]
+    [
+        {
+            "name": "Evolution Of Microprocessor (mod 1)",
+            "description": "Short Note on topic Evolution Of Microprocessor Module 1",
+            "episode": 500,
+            "categorie":"Module 1|Short Note",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/mp-1.png"
+        }
+    ]
