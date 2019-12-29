@@ -1,0 +1,20 @@
+    [
+        {
+            "name": "DBMS Text Book",
+            "description": "Textbook for DBMS as per syllabus",
+            "episode": 500,
+            "categorie":"DBMS|TextBook",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
+			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/databases-ramaz.pdf"
+        },
+		{
+            "name": "DBMS Q&A Module 1",
+            "description": "Some frequent questions and answers based on 1st module",
+            "episode": 500,
+            "categorie":"Q&A|Module 1",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbbk.png",
+			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/Q_A-DBMS-Mod1.pdf"
+        },
+    ]
