@@ -16,24 +16,5 @@
 			"studio":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/rcoa.jpg",
 			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/3rdoriginal.pdf"
-        },
-		{
-            "name": "COA Text Book12",
-            "description": "Textbook for COA as per syllabus",
-            "episode":401,
-			"categorie":"Textbook|Reference",
-			"studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/rcoa.jpg",
-			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/3rdoriginal.pdf"
-        },
-		{
-            "name": "COA Text Book82",
-            "description": "Textbook for COA as per syllabus",
-            "episode":401,
-			"categorie":"Textbook|Reference",
-			"studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/rcoa.jpg",
-			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/3rdoriginal.pdf"
         }
-		
     ]
