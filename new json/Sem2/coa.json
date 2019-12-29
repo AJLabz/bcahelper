@@ -1,0 +1,19 @@
+    [
+        {
+            "name": "COA Module 3 Text important Marked",
+            "description": "Some Marked Portions of Textbook for quick reference",
+            "categorie":"Module 3| Text Marked portions ",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/coa.jpg",
+			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/mod-3-coa.pdf"
+        },
+        {
+            "name": "COA Text Book",
+            "description": "Textbook for COA as per syllabus",
+            "categorie":"Textbook|Reference",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/rcoa.jpg",
+			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/3rdoriginal.pdf"
+        },
+		
+    ]
