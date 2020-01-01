@@ -1,9 +1,9 @@
     [
 		{
-            "name": "DATA STRUCTURE [REFERENCE TEXT]",
-            "description": "Reference Text for Data Strucutures Text Name: Schaum's Outline Data Strucutures",
+            "name": "Stack And Queue using Linked List [REFERENCE TEXT SEGMENT]"
+            "description": "Text Abstract For Stack And Queue using Linked List",
             "episode": 500,
-            "categorie":"Data Strucutures|Reference Text",
+            "categorie":"DS|Text abstract Stack and Queue ",
             "studio":"Author",
             "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/cpp5.jpg",
 			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/Stack_Queue_linked.pdf"
