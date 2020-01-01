@@ -1,9 +1,10 @@
     [
+		
 		{
-            "name": "Stack And Queue using Linked List [REFERENCE TEXT SEGMENT]"
-            "description": "Text Abstract For Stack And Queue using Linked List",
+            "name": "Stack_Queue_linked Textbook",
+            "description": "PDF Of the DSCPP part",
             "episode": 500,
-            "categorie":"DS|Text abstract Stack and Queue ",
+            "categorie":"Textbook|DSCPP",
             "studio":"Author",
             "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/cpp5.jpg",
 			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/Stack_Queue_linked.pdf"
