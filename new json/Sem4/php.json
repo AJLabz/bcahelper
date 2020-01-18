@@ -1,50 +1,13 @@
     [
 		
 		{
-            "name": "Concept of Queue [Text Segment]",
-            "description": "Concept of Queue [Text Segment][MOD-2]",
+            "name": "Beginning PHP5 Text",
+            "description": "PHP5 is the newest version of the preferred language for rapidly creating dynamic Web page content. While its main use is as a cross-platform, HTML-embedded, server-side Web scripting language, it now works equally well when creating multi-tiered applications or XML-based applications as well as Web applications. This book teaches you the features and functionality of PHP5, from installing and configuring it to designing and constructing complex data-driven Web sites",
             "episode": 500,
-            "categorie":"Text|MOD-3",
+            "categorie":"Text|PHP5|Wiley",
             "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds2.jpg",
-			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/queue_reference.pdf"
-        },	
-		{
-            "name": "Concept of Stack [Text Segment]",
-            "description": "Concept of Stack [Text Segment][MOD-2]",
-            "episode": 500,
-            "categorie":"Text|MOD-2",
-            "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds1.jpg",
-			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/stack_reference.pdf"
+            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/Sem4/wileyphp.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/php_text_wiley.pdf"
         },
-		{
-            "name": "Concept of Stack",
-            "description": "Concept of Stack [QUICK NOTE][MOD-2]",
-            "episode": 500,
-            "categorie":"QUICK NOTE|MOD-2",
-            "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/stack.jpg",
-			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/Stack_Notes.pdf"
-        },
-		{
-            "name": "Concept of Structured Data",
-            "description": "Concept of Structured Data [QUICK NOTE][PART-1][MOD-1]",
-            "episode": 500,
-            "categorie":"QUICK NOTE|MOD-1",
-            "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/cpp1.jpg",
-			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/ds-mod1-quicknote.pdf"
-        },
-		
-		{
-            "name": "Stack_Queue_linked Textbook",
-            "description": "PDF Of the DSCPP part",
-            "episode": 500,
-            "categorie":"Textbook|DSCPP",
-            "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/cpp5.jpg",
-			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/Stack_Queue_linked.pdf"
-        }
 	
     ]
