@@ -17,4 +17,22 @@
             "img": "https://ajlabz.github.io/bcahelper/images/dbbk.png",
 			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/Q_A-DBMS-Mod1.pdf"
         },
+        {
+            "name": "DBMS Q&A Module 2",
+            "description": "Some frequent questions and answers based on 2nd module",
+            "episode": 500,
+            "categorie":"Q&A|Module 2",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms.jpg",
+			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/Q_A-mod-2-dbms.pdf"
+        },
+        {
+            "name": "DBMS Q&A Module 3",
+            "description": "Some frequent questions and answers based on 3rd module",
+            "episode": 500,
+            "categorie":"Q&A|Module 3",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
+			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/Q_A%20DBMS%20Mod3-1.pdf"
+        }
     ]
