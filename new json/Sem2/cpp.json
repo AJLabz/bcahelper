@@ -1,13 +1,4 @@
     [
-        {
-            "name": "C++ Polymorphism,Working with files(Pointers Section Not included!!) (5th module)",
-            "description": "Notes for 5th Module (NB: Pointers Not included!!)",
-            "episode": 500,
-            "categorie":"Module 5|Notes",
-            "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
-			"dwnload_link":"http://bit.ly/2KpcWP1"
-        },
 		{
             "name": "C++ Classes and Objects (2nd module)",
             "description": "Notes For 2nd Module ",
