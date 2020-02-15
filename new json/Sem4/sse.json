@@ -1,5 +1,13 @@
     [
-		
+		{
+            "name": "Student Management System Example",
+            "description": "Example of Student Management System From Text",
+            "episode": 500,
+            "categorie":"Text-Example|SSE",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem4/SSE/SSE-student.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE-student management-system.pdf"
+        },
 		{
             "name": "Software Engineering Text",
             "description": "This book is designed as a textbook for the first course in software engineering for undergraduate and postgraduate students. This may also help the software professionals to implement software engineering concepts and practices. The suggestions of students, teachers, researchers and practitioners have found a place in this edition.",
