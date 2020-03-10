@@ -1,5 +1,13 @@
     [
-		
+		{
+            "name": "Previous Year Question Papers",
+            "description": "If you have any other question paper plz do share @ antojosu@gmail.com",
+            "episode": 500,
+            "categorie":"QP|LINUX",
+            "studio":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem4/DAA/qu.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/Linux/Linux_question_papers.pdf"
+        },
 		{
             "name": "Linux Bible Text",
             "description": "Linux Bible, 9th Edition is the ultimate hands-on Linux user guide, whether you're a true beginner or a more advanced user navigating recent changes. ",
@@ -8,6 +16,6 @@
             "studio":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem4/Linux/linux_bible.jpg",
 			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/Linux/linux_bible_text.pdf"
-        },
+        }
 	
     ]
