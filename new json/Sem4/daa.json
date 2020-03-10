@@ -1,5 +1,13 @@
     [
-		
+        {
+            "name": "Previous Year Question Papers",
+            "description": "If you have any other question paper plz do share @ antojosu@gmail.com",
+            "episode": 500,
+            "categorie":"QP|DAA",
+            "studio":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem4/DAA/qu.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/DAA_question_papers.pdf"
+        }	
 		{
             "name": "Greedy Algorithm & Fractional Knapsack",
             "description": "Contents From JavatPoint Website.",
