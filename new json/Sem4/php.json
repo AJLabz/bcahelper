@@ -1,4 +1,13 @@
     [
+		{
+            "name": "Syllabus Of Web Programming",
+            "description": "Syllabus",
+            "episode": 500,
+            "categorie":"Portions|WEB",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/PHP_Syllabus.pdf"
+        },
 		
 		{
             "name": "Beginning PHP5 Text",
