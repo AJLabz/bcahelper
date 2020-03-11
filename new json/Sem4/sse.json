@@ -1,4 +1,13 @@
     [
+	{
+            "name": "MOD 2,3,4,5 PPT NOTES",
+            "description": "PPT Notes for SSE MODULE 2,3,4,5",
+            "episode": 500,
+            "categorie":"MOD 2,3,4,5|SSE",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_2_3_4_5_ppt.pdf"
+        },
 		{
             "name": "Syllabus Of SSE",
             "description": "Syllabus",
