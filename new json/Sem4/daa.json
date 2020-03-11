@@ -1,4 +1,13 @@
     [
+	{
+            "name": "Syllabus Of DAA",
+            "description": "Syllabus",
+            "episode": 500,
+            "categorie":"Portions|DAA",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/DAA_Syllabus.pdf"
+        },
         {
             "name": "Previous Year Question Papers",
             "description": "If you have any other question paper plz do share @ antojosu@gmail.com",
