@@ -1,5 +1,14 @@
     [
 		{
+            "name": "Syllabus Of Linux",
+            "description": "Syllabus",
+            "episode": 500,
+            "categorie":"Portions|Linux",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/Linux/Linux_Syllabus.pdf"
+        },
+		{
             "name": "Previous Year Question Papers",
             "description": "If you have any other question paper plz do share @ antojosu@gmail.com",
             "episode": 500,
