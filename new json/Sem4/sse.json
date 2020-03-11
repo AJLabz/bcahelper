@@ -1,5 +1,14 @@
     [
 		{
+            "name": "Syllabus Of SSE",
+            "description": "Syllabus",
+            "episode": 500,
+            "categorie":"Portions|SSE",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_Syllabus.pdf"
+        },
+		{
             "name": "Student Management System Example",
             "description": "Example of Student Management System From Text",
             "episode": 500,
