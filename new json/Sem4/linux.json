@@ -1,13 +1,5 @@
     [
-        {
-            "name": "Shell Programming TextBook (MODULE 3)",
-            "description": "Yeswant Kanethkar - UNIX Shell Programming File Size :34MB",
-            "episode": 500,
-            "categorie":"MOD 3|Linux",
-            "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/Sem4/Linux/shell_script_text.jpg",
-			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/Linux/unix_shell_programming_yashwant_kanitkar_optimize.pdf"
-        },
+       
         {
             "name": "Syllabus Of Linux",
             "description": "Syllabus",
