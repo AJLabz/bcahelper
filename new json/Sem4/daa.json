@@ -1,4 +1,22 @@
     [
+        {
+            "name": "Dynamic Programming & Applications",
+            "description": "Note for introduction to Dynamic Programming Module 4 ",
+            "episode": 500,
+            "categorie":"Mod 4|DAA",
+            "studio":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD_4_dynamic_programming.pdf"
+        },
+        {
+            "name": "Strassen Method And MST",
+            "description": "Notes for Minimum Spanning Tree (MODULE 3) and Strassen Method for Matrix Addition (MODULE 2)",
+            "episode": 500,
+            "categorie":"Mod 3|MOD 2|DAA",
+            "studio":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD3_DAA_greedy_fra_knapsack.pdf"
+        },
 	{
             "name": "Syllabus Of DAA",
             "description": "Syllabus",
