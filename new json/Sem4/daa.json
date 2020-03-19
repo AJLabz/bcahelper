@@ -1,4 +1,49 @@
     [
+		{
+            "name": "MODULE 1 Notes",
+            "description": "Note for MODULE 1",
+            "episode": 500,
+            "categorie":"Mod 1|DAA",
+            "studio":"Author Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD1_DAA.pdf"
+        },
+		{
+            "name": "MODULE 2 Notes",
+            "description": "Note for MODULE 2",
+            "episode": 500,
+            "categorie":"Mod 2|DAA",
+            "studio":"Author Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD2_DAA.pdf"
+        },
+		{
+            "name": "MODULE 3 Notes",
+            "description": "Note for MODULE 3",
+            "episode": 500,
+            "categorie":"Mod 3|DAA",
+            "studio":"Author Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD3_DAA.pdf"
+        },
+		{
+            "name": "MODULE 4 Notes",
+            "description": "Note for MODULE 4",
+            "episode": 500,
+            "categorie":"Mod 4|DAA",
+            "studio":"Author Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD4_DAA.pdf"
+        },
+		{
+            "name": "MODULE 5 Notes",
+            "description": "Note for MODULE 5",
+            "episode": 500,
+            "categorie":"Mod 5|DAA",
+            "studio":"Author Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD5_DAA.pdf"
+        },
         {
             "name": "Dynamic Programming & Applications",
             "description": "Note for introduction to Dynamic Programming and 0/1 Knapsack problem using Dynamic Programming Module 4 ",
