@@ -1,4 +1,13 @@
     [
+        {
+            "name": "PHP Previous year Question Papers ",
+            "description": "Previous Year qp",
+            "episode": 500,
+            "categorie":"Quick Notes|WEB",
+            "studio":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem4/DAA/qu.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/web_qe.pdf"
+        },
 		{
             "name": "Quick Notes: MOD3,4,5",
             "description": "Quick Note for Module 4 missing OOPs,5 & module 3 seems to be partial",
