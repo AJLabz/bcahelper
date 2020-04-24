@@ -1,4 +1,13 @@
     [
+        {
+            "name": "SSE Previous Year Question papers",
+            "description": "SSE Previous year qps",
+            "episode": 500,
+            "categorie":"QP|SSE",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem4/DAA/qu.jpg",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/sse_qp.pdf"
+        },
 	{
             "name": "MOD 2,3,4,5 PPT NOTES",
             "description": "PPT Notes for SSE MODULE 2,3,4,5",
