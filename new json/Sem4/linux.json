@@ -1,4 +1,13 @@
     [
+	    {
+            "name": "Linux PPT notes MOD 5 PART-2",
+            "description": "This PDF contains remaining notes of Module 5",
+            "episode": 500,
+            "categorie":"MOD 5|Linux",
+            "studio":"User:Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-3.png",
+			"dwnload_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/Linux/linux_MOD5-2.pdf"
+        },
 	 {
             "name": "Linux PPT notes MOD 4",
             "description": "This PDF contains full notes of Module 4",
