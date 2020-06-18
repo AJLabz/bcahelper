@@ -1,4 +1,14 @@
     [
+        
+        {
+            "name": "[NEW][Exclusive]COA Module 4,5 TextBook",
+            "description": "MGU Prefered Textbook for Module 4,5",
+            "episode":401,
+			"categorie":"Module 4,5| Text",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/coa.jpg",
+			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/COA/MOD_4_5_Text.pdf"
+        },
         {
             "name": "COA Module 3 Text important Marked",
             "description": "Some Marked Portions of Textbook for quick reference",
