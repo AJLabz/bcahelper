@@ -1,0 +1,35 @@
+[
+	{
+            "name": "MOD 2,3,4,5 PPT NOTES",
+            "description": "PPT Notes for SSE MODULE 2,3,4,5",
+            "category":"MOD 2,3,4,5|SSE",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_2_3_4_5_ppt.pdf"
+        },
+		{
+            "name": "Syllabus Of SSE",
+            "description": "Syllabus",
+            "category":"Portions|SSE",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_Syllabus.pdf"
+        },
+		{
+            "name": "Student Management System Example",
+            "description": "Example of Student Management System From Text",
+            "category":"Text-Example|SSE",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem4/SSE/SSE-student.jpg",
+			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_student_example.pdf"
+        },
+		{
+            "name": "Software Engineering Text",
+            "description": "This book is designed as a textbook for the first course in software engineering for undergraduate and postgraduate students. This may also help the software professionals to implement software engineering concepts and practices. The suggestions of students, teachers, researchers and practitioners have found a place in this edition.",
+            "category":"Text|SSE",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem4/SSE/sse_txt.jpg",
+			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_Text.pdf"
+        }
+	
+    ]
