@@ -1,0 +1,35 @@
+[
+        {
+            "name": "DBMS Text Book",
+            "description": "Textbook for DBMS as per syllabus",
+            "category":"DBMS|TextBook",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/databases-ramaz.pdf"
+        },
+        {
+            "name": "DBMS Q&A Module 1",
+            "description": "Some frequent questions and answers based on 1st module",
+            "category":"Q&A|Module 1",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbbk.png",
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Q_A-DBMS-Mod1.pdf"
+        },
+		{
+            "name": "DBMS Q&A Module 2",
+            "description": "Some frequent questions and answers based on 2nd module",
+            "category":"Q&A|Module 2",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms.jpg",
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Q_A-mod-2-dbms.pdf"
+        },
+		{
+            "name": "DBMS Q&A Module 3",
+            "description": "Some frequent questions and answers based on 3rd module",
+            "category":"Q&A|Module 3",
+            "studio":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Q_A%20DBMS%20Mod3-1.pdf"
+        }
+	
+    ]
