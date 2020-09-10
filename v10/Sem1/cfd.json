@@ -1,0 +1,11 @@
+[
+        {
+            "name": "Computer Fundamental Syllabus",
+            "description": "This PDF contains syllabus of Computer Fundamental (CFD)",
+            "category":"Syllabus",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem1/cfd/cfd_syllabus.pdf"
+        }
+	
+    ]
