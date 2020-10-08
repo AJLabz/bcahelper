@@ -1,5 +1,14 @@
 [
-		{
+		
+	{
+            "name": "COA Syllabus",
+            "description": "All Details about COA subject",
+	    "category":"Portions| COA",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/COA/coa_syllabus_sem2.pdf"
+        },
+        {
             "name": "COA Module 3 Text important Marked",
             "description": "Some Marked Portions of Textbook for quick reference",
 			"category":"Module 3| Text Marked portions ",
