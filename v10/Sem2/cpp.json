@@ -1,5 +1,13 @@
 [
 	{
+            "name": "C++ Syllabus",
+            "description": "All Details about C++ subject",
+	    "category":"Portions| C++",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem2/CPP/cpp_syllabus_sem2.pdf"
+        },
+	{
             "name": "C++ Classes and Objects (2nd module)",
             "description": "Notes For 2nd Module ",
             "category":"Module 2|Short Note",
