@@ -1,4 +1,28 @@
 [
+	{
+            "name": "Unit 3: IT and Society",
+            "description": "This PDF contains text abstract of unit 3 : IT and Society",
+            "category":"Unit 3| ITE",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
+            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/ite/unit3-text-ite.pdf"
+        },
+	{
+            "name": "Unit 2: Impact of E-Learning",
+            "description": "This PDF contains text abstract of unit 2 : Impact of E-Learning",
+            "category":"Unit 2| ITE",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
+            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/ite/unit2-text-ite.pdf"
+        },
+	{
+            "name": "Unit 1: Internet and Environment",
+            "description": "This PDF contains text abstract of unit 1 : Introduction to Internet and Environment",
+            "category":"Unit 1| ITE",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms.jpg",
+            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/ite/unit1-text-ite.pdf"
+        },
         {
             "name": "IT and Environment Syllabus",
             "description": "This PDF contains syllabus of IT and Environment",
