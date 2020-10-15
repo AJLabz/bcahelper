@@ -1,4 +1,12 @@
 [
+	{
+            "name": "Computer Network TextBook",
+            "description": "Text Mentioned in Syllabus. Name of the text is Data Communications and Networking By Behrouz A.Forouzan",
+            "category":"Textbook",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem5/cn-text.png",
+            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/cn_text.pdf"
+        }
         {
             "name": "Computer Network Syllabus",
             "description": "This PDF contains syllabus of Computer Network",
