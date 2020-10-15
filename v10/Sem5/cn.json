@@ -6,14 +6,6 @@
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem5/cn-text.png",
             "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/cn-text.pdf"
-        },
-        {
-            "name": "Computer Network Syllabus",
-            "description": "This PDF contains syllabus of Computer Network",
-            "category":"Syllabus",
-            "share":"Admin",
-            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/cn_syllabus.pdf"
         }
 	
     ]
