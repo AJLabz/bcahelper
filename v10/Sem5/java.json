@@ -1,4 +1,12 @@
 [
+	{
+            "name": "Java Textbook",
+            "description": "Balagurusamy Java Textbook",
+	    "category":"text",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem5/java-text.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/java/java-text.pdf"
+        },
         {
             "name": "Java Syllabus",
             "description": "This PDF contains syllabus of Java Programming",
@@ -8,4 +16,4 @@
             "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem5/java/java_syllabus.pdf"
         }
 	
-    ]
+]
