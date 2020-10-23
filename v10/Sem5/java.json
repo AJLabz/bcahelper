@@ -1,5 +1,13 @@
 [
 	{
+            "name": "Java Previous Year Question Paper [Exclusive]",
+            "description": "Java Question Paper 2019",
+	    "category":"QP",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem5/qu.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/java/java_2019_qp.pdf"
+        },
+	{
             "name": "Java Textbook",
             "description": "Balagurusamy Java Textbook",
 	    "category":"text",
