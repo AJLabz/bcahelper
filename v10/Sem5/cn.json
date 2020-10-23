@@ -1,5 +1,13 @@
 [
 	{
+            "name": "Computer Network Previous Year Question Paper [Exclusive]",
+            "description": "Computer Network Question Paper 2019",
+	    "category":"QP",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/Sem5/qu.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/java/network_2019_qp.pdf"
+        },
+	{
             "name": "Computer Network TextBook",
             "description": "Text Mentioned in Syllabus. Name of the text is Data Communications and Networking By Behrouz A.Forouzan",
             "category":"Textbook",
