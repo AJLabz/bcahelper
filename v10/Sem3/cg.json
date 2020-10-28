@@ -1,4 +1,12 @@
 [
+{
+                  "name": "Computer Graphics Syllabus",
+                  "description": "Syllabus",
+                  "category":"Syllabus",
+                  "share":"Author",
+                  "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg.pdf"
+    },
 		{
                   "name": "Computer Graphics Text Book",
                   "description": "Written by Donald Hearn",
