@@ -1,5 +1,13 @@
 [
 	{
+            "name": "Module 2 Notes",
+            "description": "Java Module 2 notes from external source",
+	    "category":"Notes|Java",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/java/mod-2-java.pdf"
+        },
+	{
             "name": "Module 1 Notes",
             "description": "Java Module 1 notes from external source",
 	    "category":"Notes|Java",
