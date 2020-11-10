@@ -1,5 +1,13 @@
 [
 	{
+            "name": "Linked List Notes",
+            "description": "Simple Notes for Linked List",
+            "category":"QUICK NOTE",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/cpp1.jpg",
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/Linked_list_Notes.pdf"
+        },
+	{
             "name": "Binary Search Tree Notes",
             "description": "Binary Search Tree Notes",
             "category":"Notes",
