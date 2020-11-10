@@ -1,5 +1,21 @@
 [
 	{
+            "name": "Binary Search Tree Notes",
+            "description": "Binary Search Tree Notes",
+            "category":"Notes",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds2.jpg",
+            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/BST_Notes.pdf"
+        },
+		{
+            "name": "Trees Notes",
+            "description": "Concept of Trees Note",
+            "category":"Notes",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds1.jpg",
+			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/Trees_Notes.pdf"
+        },
+	{
             "name": "Concept of Queue [Text Segment]",
             "description": "Concept of Queue [Text Segment][MOD-2]",
             "category":"Text|MOD-3",
