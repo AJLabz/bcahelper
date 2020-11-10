@@ -1,5 +1,21 @@
-[
+[	
+	{
+            "name": "MODULE 2 PPT NOTES",
+            "description": "This PDF notes for Module 2",
+            "category":"Notes",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms.jpg",
+            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem1/cfd/MODULE2-CFD-NOTES.pdf"
+        },
         {
+            "name": "MODULE 1 PPT NOTES",
+            "description": "This PDF notes for Module 1",
+            "category":"Notes",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/coa.jpg",
+            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem1/cfd/MODULE1-CFD-NOTES.pdf"
+        },
+	{
             "name": "Computer Fundamental Syllabus",
             "description": "This PDF contains syllabus of Computer Fundamental (CFD)",
             "category":"Syllabus",
