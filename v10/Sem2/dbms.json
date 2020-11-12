@@ -1,5 +1,13 @@
 [
 	{
+            "name": "DBMS Module 1 PPT",
+            "description": "PPT Notes of DBMS Module 1",
+            "category":"Notes",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms.jpg",
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/DBMS-MOD-1-Notes.pdf"
+        },
+	{
             "name": "DBMS Syllabus",
             "description": "DBMS syllabus",
             "category":"Syllabus",
