@@ -24,14 +24,6 @@
 			"download_link":"https://ajlabz.github.io/bcahelper/resources/cppmod3.pdf"
         },
 		{
-            "name": "Student Management System Example",
-            "description": "Example of Student Management System From Text",
-            "category":"Text-Example|SSE",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/Sem4/SSE/SSE-student.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_student_example.pdf"
-        },
-		{
             "name": "C++ Balagurusamy Text Book",
             "description": "Object Oriented Programming using C++ Programming written by Balagurusamy ",
             "category":"CPP|Textbook",
