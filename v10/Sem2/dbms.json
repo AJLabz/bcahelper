@@ -1,5 +1,21 @@
 [
 	{
+            "name": "Module 2 Relational Model Notes",
+            "description": "PDF Note of DBMS Module 2, contains only Relational Model Notes",
+            "category":"Notes",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/MOD-2-part2.pdf"
+        },
+	{
+            "name": "Module 2 ER Model Notes",
+            "description": "PDF Note of DBMS Module 2, contains only ER Model Notes",
+            "category":"Notes",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/MOD-2-part1.pdf"
+        },
+	{
             "name": "Module 5 Transaction Processing Notes",
             "description": "part 1 PDF Notes of DBMS Module 5, contains only Transaction Processing Notes",
             "category":"Notes",
