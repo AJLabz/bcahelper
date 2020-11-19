@@ -1,29 +1,12 @@
     [
-		{
-            "name": "C++ Classes and Objects (2nd module)",
-            "description": "Notes For 2nd Module ",
-            "episode": 500,
-            "categorie":"Module 2|Short Note",
+        
+        {
+            "name": "Plz Update the App",
+            "description": "Please Update to latest BCA Resources App from Play Store for free",
+            "episode":401,
+	    "categorie":"Update Alert",
             "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
-			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/cppmod2.pdf"
-        },
-		{
-            "name": "C++ Constructors And Destructors,Operloading Module (3rd module)",
-            "description": "Notes For 3rd Module ",
-            "episode": 500,
-            "categorie":"Module 3|Short Note",
-            "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/cppmod3.pdf"
-        },
-		{
-            "name": "C++ Balagurusamy Text Book",
-            "description": "Object Oriented Programming using C++ Programming written by Balagurusamy ",
-            "episode": 500,
-            "categorie":"CPP|Textbook",
-            "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/c++.jpg",
-			"dwnload_link":"https://ajlabz.github.io/bcahelper/resources/c%2B%2Btext-balagurusamy.pdf"
+            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+	    "dwnload_link":""
         }
     ]
