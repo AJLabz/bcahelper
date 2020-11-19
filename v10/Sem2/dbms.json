@@ -1,5 +1,21 @@
 [
 	{
+            "name": "Module 4 Full Notes",
+            "description": "PDF Note of DBMS Module 4",
+            "category":"Notes",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/MOD-4-DBMS.pdf"
+        },
+	{
+            "name": "Module 5 Database Security Notes",
+            "description": "PDF Note of DBMS Module 5, contains only Database Security Notes",
+            "category":"Notes",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbbk.png",
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/MOD-5-part2.pdf"
+        },
+	{
             "name": "Module 2 Relational Model Notes",
             "description": "PDF Note of DBMS Module 2, contains only Relational Model Notes",
             "category":"Notes",
