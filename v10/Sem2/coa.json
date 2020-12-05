@@ -1,5 +1,28 @@
 [
-		
+	{
+            "name": "COA Module 1 PPT",
+            "description": "PPT Note for COA module 1",
+	    "category":"Portions| COA",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/coa.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem2/COA/coa-mod-1.pdf"
+        },
+	{
+            "name": "COA Module 2 PPT",
+            "description": "PPT Note for COA module 2",
+	    "category":"Portions| COA",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/coa.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem2/COA/coa-mod-2.pdf"
+        },	
+	{
+            "name": "COA Module 4,5 PPT",
+            "description": "PPT Note for COA module 4 and 5",
+	    "category":"Portions| COA",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/coa.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem2/COA/coa-mod-4-5.pdf"
+        },
 	{
             "name": "COA Syllabus",
             "description": "All Details about COA subject",
