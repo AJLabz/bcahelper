@@ -1,5 +1,13 @@
 [
 	{
+            "name": "C++ All Notes",
+            "description": "All notes for CPP",
+	    "category":"Portions| C++",
+            "share":"Anonymous",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem2/CPP/cpp_notes.pdf"
+        },
+	{
             "name": "C++ Syllabus",
             "description": "All Details about C++ subject",
 	    "category":"Portions| C++",
