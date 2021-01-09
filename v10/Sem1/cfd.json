@@ -1,5 +1,13 @@
 [	
 	{
+            "name": "CFD Previous Year Question Papers",
+            "description": "This PDF contains previous year question paper for cfd",
+            "category":"Previous Year Question Paper",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/qu.jpg",
+            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem1/cfd/cfd_qp_set.pdf"
+        },
+	{
             "name": "MODULE 2 PPT NOTES",
             "description": "This PDF notes for Module 2",
             "category":"Notes",
