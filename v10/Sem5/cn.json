@@ -1,5 +1,13 @@
 [
 	{
+            "name": "Computer Network Module 3 PPT Notes",
+            "description": "Computer Network Module 3 PPT Notes from external source",
+	    "category":"Notes",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/mod-3-cn-ppt.pdf"
+        },
+	{
             "name": "Computer Network Module 2 PPT Notes",
             "description": "Computer Network Module 2 PPT Notes from external source",
 	    "category":"Notes",
