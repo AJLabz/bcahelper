@@ -1,5 +1,13 @@
 [
 	{
+            "name": "Module 5 PPT Notes",
+            "description": "Java Module 5 PPT notes from external source",
+	    "category":"Notes|Java",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/java/mod-5-java-ppt.pdf"
+        },
+	{
             "name": "Module 1 PPT Notes",
             "description": "Java Module 1 PPT notes from external source",
 	    "category":"Notes|Java",
