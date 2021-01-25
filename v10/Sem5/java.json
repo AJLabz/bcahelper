@@ -1,5 +1,21 @@
 [
 	{
+            "name": "Module 3 Remaining Notes(Part-2)",
+            "description": "Java Module 3 remaining notes from external source",
+	    "category":"Notes|Java",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/java/mod-3-java-2.pdf"
+        },
+	{
+            "name": "Module 3 Array Note",
+            "description": "Java Module 3 Array notes from external source",
+	    "category":"Notes|Java",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
+	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/java/mod-3-java-1.pdf"
+        },
+	{
             "name": "Module 5 PPT Notes",
             "description": "Java Module 5 PPT notes from external source",
 	    "category":"Notes|Java",
