@@ -1,11 +1,21 @@
 [
-		{
+	
+        
+	{
+            "name": "Harddisk PDF Text Abstract(mod 4)",
+            "description": "Harddisk PDF Text Abstract(mod 4)",
+            "category":"Module 4|Text",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp.jpg",
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/MP/mod4-harddisk.pdf"
+        },
+	{
             "name": "Introduction to Intel 8085[PART-1](mod 1)",
             "description": "Note for the section Intel 8085, a part of 1st module",
             "category":"Module 1|Short Note",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/intel8085.jpg",
-			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/intro%20intel%208085.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/intro%20intel%208085.pdf"
         }
 	
     ]
