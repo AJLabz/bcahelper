@@ -1,7 +1,7 @@
 [
 	{
-            "name": "Memory PDF Text Abstract(mod 1 & 2)",
-            "description": "Harddisk PDF Text Abstract(mod 1 & 2)",
+            "name": "Intel 8085 PDF Text Abstract(mod 1 & 2)",
+            "description": "Intel 8085 PDF Text Abstract(mod 1 & 2)",
             "category":"Module 1|Module 2|Text",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
@@ -9,7 +9,7 @@
         },
 	{
             "name": "Memory PDF Text Abstract(mod 5)",
-            "description": "Harddisk PDF Text Abstract(mod 5)",
+            "description": "Memory PDF Text Abstract(mod 5)",
             "category":"Module 5|Text",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/os.jpg",
