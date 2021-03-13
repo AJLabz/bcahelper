@@ -1,6 +1,12 @@
 [
-	
-        
+	{
+            "name": "Memory PDF Text Abstract(mod 5)",
+            "description": "Harddisk PDF Text Abstract(mod 5)",
+            "category":"Module 5|Text",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/os.jpg",
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/MP/mod5-Memory.pdf"
+        },
 	{
             "name": "Harddisk PDF Text Abstract(mod 4)",
             "description": "Harddisk PDF Text Abstract(mod 4)",
