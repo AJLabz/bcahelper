@@ -1,5 +1,13 @@
 [
-		{
+    {
+            "name": "PHP OOPs PPT Notes",
+            "description": "PHP OOPs PPT Notes",
+            "category":"Quick Notes|WEB",
+            "share":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
+	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/oops_php_notes.pdf"
+     },
+     {
             "name": "Quick Notes: MOD3,4,5",
             "description": "Quick Note for Module 4 missing OOPs,5 & module 3 seems to be partial",
             "category":"Quick Notes|WEB",
