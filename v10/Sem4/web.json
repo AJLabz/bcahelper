@@ -1,8 +1,40 @@
 [
+	{
+            "name": "HTML PPT Notes",
+            "description": "HTML PPT Notes",
+            "category":"Notes|WEB",
+            "share":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
+	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/HTML-notes.pdf"
+     	},
+	{
+            "name": "CSS PPT Notes",
+            "description": "CSS PPT Notes",
+            "category":"Notes|WEB",
+            "share":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
+	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/CSS-notes.pdf"
+     	},
+	{
+            "name": "PHP PPT Notes",
+            "description": "PHP MySQL PPT Notes",
+            "category":"Notes|WEB",
+            "share":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/php-notes1.pdf"
+     },
+     {
+            "name": "PHP MySQL PPT Notes",
+            "description": "PHP MySQL PPT Notes",
+            "category":"Notes|WEB",
+            "share":"Anonymous Share",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
+	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/php-notes2.pdf"
+     },
     {
             "name": "PHP OOPs PPT Notes",
             "description": "PHP OOPs PPT Notes",
-            "category":"Quick Notes|WEB",
+            "category":"Notes|WEB",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
 	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/oops_php_notes.pdf"
