@@ -1,8 +1,16 @@
 [	
     {
+            "name": "Data Mining Module 4",
+            "description": "This PDF contains Data Mining module 4",
+            "category":"Note PPT",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/math.png",
+            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem6/dm/mod2_dm.pdf"
+        },    
+    {
             "name": "Data Mining Module 2",
             "description": "This PDF contains Data Mining module 2",
-            "category":"Syllabus",
+            "category":"Note PPT",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/dbbk.png",
             "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem6/dm/mod2_dm.pdf"
@@ -10,7 +18,7 @@
 	{
             "name": "Data Mining Module 1 part 2",
             "description": "This PDF contains Data Mining module 1 notes Part -2",
-            "category":"Syllabus",
+            "category":"Note PPT",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
             "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem6/dm/mod1_dm_part2.pdf"
@@ -18,7 +26,7 @@
     {
             "name": "Data Mining Module 1 part 1",
             "description": "This PDF contains Data Mining module 1 notes Part -1",
-            "category":"Syllabus",
+            "category":"Note PPT",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp.jpg",
             "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem6/dm/mod1_dm_part1.pdf"
