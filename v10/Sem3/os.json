@@ -8,11 +8,11 @@
         "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/OS/module3_2_OS.pdf"
     },
     {
-        "name": "Module 3 PPT notes [ Updated ] part-1",
-        "description": "[Updated] Please delete old note to get new PPT Notes of Module 3",
+        "name": "Module 3 PPT notes part-1",
+        "description": "new PPT Notes of Module 3",
         "categorie":"note|OS",
         "share":"Author",
         "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
         "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/OS/module3_OS.pdf"
-    },
+    }
 ]
