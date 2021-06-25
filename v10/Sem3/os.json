@@ -1,36 +1,5 @@
 [
-    {
-        "name": "Module 3 PPT notes part-2",
-        "description": "PPT Notes of Module 3 part 2 Deadlock",
-        "categorie":"note|OS",
-        "share":"Author",
-        "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
-        "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/OS/module3_2_OS.pdf"
-    },
-    {
-        "name": "Module 3 PPT notes [ Updated ] part-1",
-        "description": "[Updated] Please delete old note to get new PPT Notes of Module 3",
-        "categorie":"note|OS",
-        "share":"Author",
-        "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
-        "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/OS/module3_OS.pdf"
-    },
-    {
-        "name": "Module 4 PPT notes [Updated..] part-1",
-        "description": "[Updated] Please delete old note to get new PPT Notes of Module 4",
-        "categorie":"note|OS",
-        "share":"Author",
-        "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
-        "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/OS/module4_OS.pdf"
-    },
-    {
-        "name": "Module 2 PPT notes [ Updated ]",
-        "description": "[Updated] Please delete old note to get new PPT Notes of Module 2",
-        "categorie":"note|OS",
-        "share":"Author",
-        "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
-        "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/OS/module2_OS.pdf"
-    },
+    
     {
         "name": "Module 1 PPT notes",
         "description": "PPT Notes of Module 1",
