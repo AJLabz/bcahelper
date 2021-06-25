@@ -1,20 +1,18 @@
 [
-    
-    {
-        "name": "Module 1 PPT notes",
-        "description": "PPT Notes of Module 1",
-        "categorie":"note|OS",
-        "share":"Author",
-        "img": "https://ajlabz.github.io/bcahelper/images/cpp.jpg",
-        "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/OS/module1_OS.pdf"
-    },    
-    {
-        "name": "Abraham Silberschatz Operating System Concepts 9th Edtion",
-        "description": "PDF Of the Textbook Abraham Silberschatz's Operating System Concepts",
-        "categorie":"Textbook|OS",
-        "share":"Author",
-        "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/os.jpg",
-        "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/OS/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf"
+{
+                  "name": "Computer Graphics Syllabus",
+                  "description": "Syllabus",
+                  "category":"Syllabus",
+                  "share":"Author",
+                  "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg.pdf"
+    },
+		{
+                  "name": "Computer Graphics Text Book",
+                  "description": "Written by Donald Hearn",
+                  "category":"Computer Graphics|Textbook",
+                  "share":"Author",
+                  "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds3.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg.pdf"
     }
-	
 ]
