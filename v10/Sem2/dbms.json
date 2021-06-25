@@ -1,107 +1,11 @@
 [
 	{
-            "name": "[Exclusive]Previous Year Question Paper",
-            "description": "DBMS 2019 Exam question paper. If you have other question paper or resources please mail to ajlabz.user@gmail.com",
-            "category":"Question Paper",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/qu.jpg",
-            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/DBMS-2019.pdf"
-        },
-	{
             "name": "Module 4 Full Notes",
             "description": "PDF Note of DBMS Module 4",
             "category":"Notes",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
             "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/MOD-4-DBMS.pdf"
-        },
-	{
-            "name": "Module 5 Database Security Notes",
-            "description": "PDF Note of DBMS Module 5, contains only Database Security Notes",
-            "category":"Notes",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbbk.png",
-            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/MOD-5-part2.pdf"
-        },
-	{
-            "name": "Module 2 Relational Model Notes",
-            "description": "PDF Note of DBMS Module 2, contains only Relational Model Notes",
-            "category":"Notes",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
-            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/MOD-2-part2.pdf"
-        },
-	{
-            "name": "Module 2 ER Model Notes",
-            "description": "PDF Note of DBMS Module 2, contains only ER Model Notes",
-            "category":"Notes",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
-            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/MOD-2-part1.pdf"
-        },
-	{
-            "name": "Module 5 Transaction Processing Notes",
-            "description": "part 1 PDF Notes of DBMS Module 5, contains only Transaction Processing Notes",
-            "category":"Notes",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbbk.png",
-            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/MOD-5-part1.pdf"
-        },
-	{
-            "name": "DBMS Module 3 PDF",
-            "description": "PDF Notes of DBMS Module 3 SQL Commands",
-            "category":"Notes",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
-            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/Mod-3-SQL.pdf"
-        },
-	{
-            "name": "DBMS Module 1 PPT",
-            "description": "PPT Notes of DBMS Module 1",
-            "category":"Notes",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbms.jpg",
-            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/DBMS-MOD-1-Notes.pdf"
-        },
-	{
-            "name": "DBMS Syllabus",
-            "description": "DBMS syllabus",
-            "category":"Syllabus",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/DBMS/dbms-syllabus.pdf"
-        },
-        {
-            "name": "DBMS Text Book",
-            "description": "Textbook for DBMS as per syllabus",
-            "category":"DBMS|TextBook",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
-            "download_link":"https://ajlabz.github.io/bcahelper/resources/databases-ramaz.pdf"
-        },
-        {
-            "name": "DBMS Q&A Module 1",
-            "description": "Some frequent questions and answers based on 1st module",
-            "category":"Q&A|Module 1",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbbk.png",
-			"download_link":"https://ajlabz.github.io/bcahelper/resources/Q_A-DBMS-Mod1.pdf"
-        },
-		{
-            "name": "DBMS Q&A Module 2",
-            "description": "Some frequent questions and answers based on 2nd module",
-            "category":"Q&A|Module 2",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbms.jpg",
-			"download_link":"https://ajlabz.github.io/bcahelper/resources/Q_A-mod-2-dbms.pdf"
-        },
-		{
-            "name": "DBMS Q&A Module 3",
-            "description": "Some frequent questions and answers based on 3rd module",
-            "category":"Q&A|Module 3",
-            "studio":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
-			"download_link":"https://ajlabz.github.io/bcahelper/resources/Q_A%20DBMS%20Mod3-1.pdf"
-        }
+    },
 	
-    ]
+]
