@@ -1,586 +1,98 @@
 <!DOCTYPE html>
-<html lang="zxx">
-
+<html>
 <head>
-	<title>BCA HELPER UI</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="utf-8">
-	<meta name="keywords" content="Weblog a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
 
-	<script>
-		addEventListener("load", function () {
-			setTimeout(hideURLbar, 0);
-		}, false);
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
 
-		function hideURLbar() {
-			window.scrollTo(0, 1);
-		}
-	</script>
-	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
-	<link rel="stylesheet" href="css/jquery.desoslide.css">
-	<link href="css/style.css" rel='stylesheet' type='text/css' />
-	<link href="css/fontawesome-all.css" rel="stylesheet">
-	<link href="//fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800"
-	    rel="stylesheet">
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="bcares">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <title>bcares</title>
+  <link rel="manifest" href="manifest.json">
 </head>
-
 <body>
-	<!--Header-->
-	<!--//header-->
-<div class="header_top" id="home">
-	<!--/banner-->
-	<div class="banner">
-		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-			<ol class="carousel-indicators">
-				<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="0"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-			</ol>
-			<div class="carousel-inner" role="listbox">
-				<div class="carousel-item active">
-					<div class="carousel-caption">
-						<h3>Computer Architecture
-							<span>And Organization</span>
-						</h3>
-						<div class="read">
-							<a href="coa.html" class="btn btn-primary read-m">Check Resources</a>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item item2">
-					<div class="carousel-caption">
-						<h3>Object Oriented Programming
-							<span>Using C++</span>
-						</h3>
-						<div class="read">
-							<a href="cpp.html" class="btn btn-primary read-m">Check Resources</a>
-						</div>
-					</div>
-				</div>
-				<div class="carousel-item item3">
-					<div class="carousel-caption">
-						<h3>Database Management System
-							<span>(DBMS)</span>
-						</h3>
-						<div class="read">
-							<a href="dbms.html" class="btn btn-primary read-m">Check Resources</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
-		</div>
-	</div>
-	<!--/model-->
-	<!--//banner-->
-	<marquee behavior="alternate"><font color="red">BCA Resources v3.1 published in play store</font></marquee>
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/new_ic.png" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i> JULY 8,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
+  <!-- This script installs service_worker.js to provide PWA functionality to
+       application. For more information, see:
+       https://developers.google.com/web/fundamentals/primers/service-workers -->
+  <script>
+    var serviceWorkerVersion = '545991234';
+    var scriptLoaded = false;
+    function loadMainDartJs() {
+      if (scriptLoaded) {
+        return;
+      }
+      scriptLoaded = true;
+      var scriptTag = document.createElement('script');
+      scriptTag.src = 'main.dart.js';
+      scriptTag.type = 'application/javascript';
+      document.body.append(scriptTag);
+    }
 
-						<h3>
-							BCA Resources v3.1 <font color="red">Available in Play Store</font>
-						</h3>
-						<p>
-						</p>
-							
-					</div>
-					</section>
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/coa.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i> JUNE 5,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
+    if ('serviceWorker' in navigator) {
+      // Service workers are supported. Use them.
+      window.addEventListener('load', function () {
+        // Wait for registration to finish before dropping the <script> tag.
+        // Otherwise, the browser will load the script multiple times,
+        // potentially different versions.
+        var serviceWorkerUrl = 'flutter_service_worker.js?v=' + serviceWorkerVersion;
+        navigator.serviceWorker.register(serviceWorkerUrl)
+          .then((reg) => {
+            function waitForActivation(serviceWorker) {
+              serviceWorker.addEventListener('statechange', () => {
+                if (serviceWorker.state == 'activated') {
+                  console.log('Installed new service worker.');
+                  loadMainDartJs();
+                }
+              });
+            }
+            if (!reg.active && (reg.installing || reg.waiting)) {
+              // No active web worker and we have installed or are installing
+              // one for the first time. Simply wait for it to activate.
+              waitForActivation(reg.installing ?? reg.waiting);
+            } else if (!reg.active.scriptURL.endsWith(serviceWorkerVersion)) {
+              // When the app updates the serviceWorkerVersion changes, so we
+              // need to ask the service worker to update.
+              console.log('New service worker available.');
+              reg.update();
+              waitForActivation(reg.installing);
+            } else {
+              // Existing service worker is still good.
+              console.log('Loading app from service worker.');
+              loadMainDartJs();
+            }
+          });
 
-						<h3>
-							COA Module 3 <font color="red">Text important Marked</font>
-						</h3>
-						<p>
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/coa.html" class="btn btn-primary read-m">Check</a>
-					</div>
-					</section>
-	<!--/main-->
-	<section class="main-content">
-	<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/cpp.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 31,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							C++ 5th module<font color="red">(new!!!)</font>,4th Module,3rd Module And 2nd Module Notes
-						</h3>
-						<p>
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/cpp.html" class="btn btn-primary read-m">Check Now</a>
-					</div>
-					</section>
-	<!--/main-->
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/dbms.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 23,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							DBMS Module II Q_A
-						</h3>
-						<p>
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/dbms.html" class="btn btn-primary read-m">View Now</a>
-					</div>
-					</section>
-	<!--/main-->
-	<!--/main-->
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/math.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 20,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							Maths Matrices Text Book
-						</h3>
-						<p>
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/resources/Ayres-Matrices.pdf" class="btn btn-primary read-m">Download</a>
-					</div>
-					</section>
-	<!--/main-->
-	<!--/main-->
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/dbbk.png" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 18,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							DBMS Q&A Module 1
-						</h3>
-						<p>
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/dbms" class="btn btn-primary read-m">Check Now</a>
-					</div>
-					</section>
-	<!--/main-->
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/785.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 17,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							Maths Text Book(Matrices Module Not included) 
-							Author: Kenneth H.Rosen
-						</h3>
-						<p>
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/resources/7th_Edition.pdf" class="btn btn-primary read-m">View Now</a>
-					</div>
-					</section>
-					<!--/section-->
-	<!--/main-->
-	<!--/main-->
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/rcoa.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 11,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							COA Text Book
-						</h3>
-						<p>
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/coa.html" class="btn btn-primary read-m">Check Now</a>
-					</div>
-					</section>
-					<!--/section-->
-	<!--/main-->
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/c++.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 11,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							C++ Balagurusamy Text Book
-						</h3>
-						<p>
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/cpp" class="btn btn-primary read-m">Check Now</a>
-					</div>
-					</section>
-					<!--/section-->
-	<!--/main-->
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/dbms-2.png" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 11,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							DBMS Text Book
-						</h3>
-						<p>
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/dbms" class="btn btn-primary read-m">Check Now</a>
-					</div>
-					</section>
-					<!--/section-->
-	<!--/main-->
-	<!--/main-->
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/book.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 7,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							2nd Semester Portions
-						</h3>
-						<p>Syllabus and Portions of Second Semester.
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/resources/sem-2-syllabus.pdf" class="btn btn-primary read-m">Tap to download</a>
-					</div>
-					</section>
-					<!--/section-->
-	<!--/main-->
-	<section class="main-content">
-		<div class="container">
-			<div class="row">
-	<div class="col-lg-8 left-blog-info text-left">
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-									<img src="images/dbms-1.jpg" class="img-fluid" alt="">
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i>  MAY 4,2019</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-
-						<h3>
-							DBMS Module 3 Questions and Answers Part-1
-						</h3>
-						<p>DBMS le 3 module previous year questions with answers part-1. Wait for Part-2 
-						</p>
-						<a href="https://ajlabz.github.io/bcahelper/dbms.html" class="btn btn-primary read-m">Take a Look</a>
-					</div>
-					</section>
-					<!--/section-->
-	<!--//main-->
-	<section class="main-content">
-			<div class="container">
-				<div class="row">
-					<!--left-->
-					<div class="col-lg-8 left-blog-info text-left">
-						<div class="blog-grid-top">
-							<div class="b-grid-top">
-								<div class="blog_info_left_grid">
-										<img src="images/exam.jpg" class="img-fluid" alt="">
-								</div>
-								<div class="blog-info-middle">
-									<ul>
-										<li>
-											<a href="#">
-												<i class="far fa-calendar-alt"></i> APRIL 25,2019</a>
-									</ul>
-								</div>
-							</div>
-	
-							<h3>
-								Exam Time Table
-							</h3>
-							<p>University Semester II Exam Time table </p>
-							<a href="https://ajlabz.github.io/bcahelper/resources/II%20sem%20timetable.png" download class="btn btn-primary read-m">Tap to Download</a>
-						</div>
-						<!--//silder-->
-						
-	
-					</div>
-					<!--//left-->
-					<!--//right-->
-				</div>
-			</div>
-		</section>
-		<!--//main-->
-	<!--footer-->
-	<!---->
-	<!-- js -->
-	<script src="js/jquery-2.2.3.min.js"></script>
-	<!-- //js -->
-	<!-- desoslide-JavaScript -->
-	<script src="js/jquery.desoslide.js"></script>
-	<script>
-		$('#demo1_thumbs').desoSlide({
-			main: {
-				container: '#demo1_main_image',
-				cssClass: 'img-responsive'
-			},
-			effect: 'sideFade',
-			caption: true
-		});
-	</script>
-
-	<!-- requried-jsfiles-for owl -->
-	<script>
-		$(window).load(function () {
-			$("#flexiselDemo1").flexisel({
-				visibleItems: 3,
-				animationSpeed: 1000,
-				autoPlay: true,
-				autoPlaySpeed: 3000,
-				pauseOnHover: true,
-				enableResponsiveBreakpoints: true,
-				responsiveBreakpoints: {
-					portrait: {
-						changePoint: 480,
-						visibleItems: 1
-					},
-					landscape: {
-						changePoint: 640,
-						visibleItems: 2
-					},
-					tablet: {
-						changePoint: 768,
-						visibleItems: 3
-					}
-				}
-			});
-
-		});
-	</script>
-	<script>
-		$(window).load(function () {
-			$("#flexiselDemo2").flexisel({
-				visibleItems: 3,
-				animationSpeed: 1000,
-				autoPlay: true,
-				autoPlaySpeed: 3000,
-				pauseOnHover: true,
-				enableResponsiveBreakpoints: true,
-				responsiveBreakpoints: {
-					portrait: {
-						changePoint: 480,
-						visibleItems: 1
-					},
-					landscape: {
-						changePoint: 640,
-						visibleItems: 2
-					},
-					tablet: {
-						changePoint: 768,
-						visibleItems: 3
-					}
-				}
-			});
-
-		});
-	</script>
-	<script src="js/jquery.flexisel.js"></script>
-	<!-- //password-script -->
-	<!--/ start-smoth-scrolling -->
-	<script src="js/move-top.js"></script>
-	<script src="js/easing.js"></script>
-	<script>
-		jQuery(document).ready(function ($) {
-			$(".scroll").click(function (event) {
-				event.preventDefault();
-				$('html,body').animate({
-					scrollTop: $(this.hash).offset().top
-				}, 900);
-			});
-		});
-	</script>
-	<!--// end-smoth-scrolling -->
-
-	<script>
-		$(document).ready(function () {
-			
-									var defaults = {
-							  			containerID: 'toTop', // fading element id
-										containerHoverID: 'toTopHover', // fading element hover id
-										scrollSpeed: 1200,
-										easingType: 'linear' 
-							 		};
-									
-
-			$().UItoTop({
-				easingType: 'easeOutQuart'
-			});
-
-		});
-	</script>
-	<a href="#home" class="scroll" id="toTop" style="display: block;">
-		<span id="toTopHover" style="opacity: 1;"> </span>
-	</a>
-
-	<!-- //Custom-JavaScript-File-Links -->
-	<script src="js/bootstrap.js"></script>
-
-
+        // If service worker doesn't succeed in a reasonable amount of time,
+        // fallback to plaint <script> tag.
+        setTimeout(() => {
+          if (!scriptLoaded) {
+            console.warn(
+              'Failed to load app from service worker. Falling back to plain <script> tag.',
+            );
+            loadMainDartJs();
+          }
+        }, 4000);
+      });
+    } else {
+      // Service workers not supported. Just drop the <script> tag.
+      loadMainDartJs();
+    }
+  </script>
 </body>
-
 </html>
