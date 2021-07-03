@@ -1,5 +1,13 @@
 [	
     {
+            "name": "Data Mining Module 3",
+            "description": "This PDF contains Data Mining module 3",
+            "category":"Note PPT",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/math.png",
+            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem6/dm/mod3_dm.pdf"
+    },    
+    {
             "name": "Data Mining Module 5",
             "description": "This PDF contains Data Mining module 5",
             "category":"Note PPT",
