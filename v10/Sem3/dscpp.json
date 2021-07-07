@@ -1,12 +1,4 @@
 [
-	    {
-            "name": "Concept of Stack [Text Segment]",
-            "description": "Concept of Stack [Text Segment][MOD-2]",
-            "category":"Text|MOD-2",
-            "share":"Author",
-            "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds1.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/stack_reference.pdf"
-        },
 		{
             "name": "Concept of Stack",
             "description": "Concept of Stack [QUICK NOTE][MOD-2]",
