@@ -42,9 +42,8 @@
 	{
             "name": "Concept of Stack",
             "description": "Concept of Stack [QUICK NOTE][MOD-2]",
-            "episode": 500,
-            "categorie":"QUICK NOTE|MOD-2",
-            "studio":"Author",
+            "category":"QUICK NOTE|MOD-2",
+            "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/stack.jpg",
 			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/Stack_Notes.pdf"
     },
