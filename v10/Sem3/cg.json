@@ -1,18 +1,42 @@
 [
 {
+                  "name": "CG 2018 QP",
+                  "description": "Question paper 2018 CG",
+                  "category":"QP",
+                  "share":"Author",
+                  "img": "https://ajlabz.github.io/bcahelper/images/qu.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/2018_qp_cg.pdf"
+},
+{
+                  "name": "CG 2017 QP",
+                  "description": "Question paper 2017 CG",
+                  "category":"QP",
+                  "share":"Author",
+                  "img": "https://ajlabz.github.io/bcahelper/images/qu.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/2017_qp_cg.pdf"
+},
+{
+                  "name": "CG 2016 QP",
+                  "description": "Question paper 2016 CG",
+                  "category":"QP",
+                  "share":"Author",
+                  "img": "https://ajlabz.github.io/bcahelper/images/qu.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/2016_qp_cg.pdf"
+},
+{
                   "name": "Computer Graphics Syllabus",
                   "description": "Syllabus",
                   "category":"Syllabus",
                   "share":"Author",
                   "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
                   "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg.pdf"
-    },
-		{
+},
+{
                   "name": "Computer Graphics Text Book",
                   "description": "Written by Donald Hearn",
                   "category":"Computer Graphics|Textbook",
                   "share":"Author",
                   "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds3.jpg",
                   "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg.pdf"
-    }
+}
 ]
