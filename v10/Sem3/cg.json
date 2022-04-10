@@ -1,5 +1,45 @@
 [
 {
+                  "name": "CG MOD 1 NOTES",
+                  "description": "module 1 CG notes",
+                  "category":"Note",
+                  "share":"User",
+                  "img": "https://ajlabz.github.io/bcahelper/images/book.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg_mod1.pdf"
+},
+{
+                  "name": "CG MOD 2 NOTES",
+                  "description": "module 2 CG notes",
+                  "category":"Note",
+                  "share":"User",
+                  "img": "https://ajlabz.github.io/bcahelper/images/book.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg_mod2.pdf"
+},
+{
+                  "name": "CG MOD 3 NOTES",
+                  "description": "module 3 CG notes",
+                  "category":"Note",
+                  "share":"User",
+                  "img": "https://ajlabz.github.io/bcahelper/images/book.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg_mod3.pdf"
+},
+{
+                  "name": "CG MOD 4 NOTES",
+                  "description": "module 4 CG notes",
+                  "category":"Note",
+                  "share":"User",
+                  "img": "https://ajlabz.github.io/bcahelper/images/book.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg_mod4.pdf"
+},
+{
+                  "name": "CG MOD 5 NOTES",
+                  "description": "module 5 CG notes",
+                  "category":"Note",
+                  "share":"User",
+                  "img": "https://ajlabz.github.io/bcahelper/images/book.jpg",
+                  "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/CG/cg_mod5.pdf"
+},
+{
                   "name": "CG 2018 QP",
                   "description": "Question paper 2018 CG",
                   "category":"QP",
