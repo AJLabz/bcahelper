@@ -5,7 +5,7 @@
             "category":"Notes",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem1/c/mod-4-c.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/c/mod-4-c.pdf"
         },
 	{
             "name": "C Module 3 Notes",
@@ -13,7 +13,7 @@
             "category":"Notes",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem1/c/mod-3-c.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/c/mod-3-c.pdf"
         },
 	{
             "name": "C Module 2 Notes",
@@ -21,7 +21,7 @@
             "category":"Notes",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/c++.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem1/c/mod-2-c.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/c/mod-2-c.pdf"
         },
 	{
             "name": "C Module 1 Notes",
@@ -29,7 +29,7 @@
             "category":"Notes",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem1/c/mod-1-c.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/c/mod-1-c.pdf"
         },
         {
             "name": "C Programming Previous Year Question Paper",
@@ -37,7 +37,7 @@
             "category":"Question Papers",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/qu.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem1/c/c_qp_set.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/c/c_qp_set.pdf"
         },
 	{
             "name": "C Programming Syllabus",
@@ -45,7 +45,7 @@
             "category":"Syllabus",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem1/c/c_syllabus.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/c/c_syllabus.pdf"
         }
 	
     ]

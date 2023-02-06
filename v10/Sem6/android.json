@@ -5,7 +5,7 @@
             "category":"Syllabus",
             "share":"Anonymous",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem6/android/android_mod_5.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/android/android_mod_5.pdf"
     },
     {
             "name": "Android Module 4 ppt",
@@ -13,7 +13,7 @@
             "category":"Syllabus",
             "share":"Anonymous",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem6/android/android_mod_4.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/android/android_mod_4.pdf"
     },
 	{
             "name": "Android Module 3 ppt",
@@ -21,7 +21,7 @@
             "category":"Syllabus",
             "share":"Anonymous",
             "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem6/android/android_mod_3.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/android/android_mod_3.pdf"
     },
     {
             "name": "Android Module 2 ppt",
@@ -29,7 +29,7 @@
             "category":"Syllabus",
             "share":"Anonymous",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem6/android/android_mod_2.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/android/android_mod_2.pdf"
     },
 	{
             "name": "Android Module 1 ppt",
@@ -37,7 +37,7 @@
             "category":"Syllabus",
             "share":"Anonymous",
             "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem6/android/android_mod_1.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/android/android_mod_1.pdf"
     },
 	{
             "name": "Android Syllabus",
@@ -45,7 +45,7 @@
             "category":"Syllabus",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem6/android/android_syllabus.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/android/android_syllabus.pdf"
     }
 	
     ]

@@ -5,7 +5,7 @@
             "category":"MOD 2,3,4,5|SSE",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_2_3_4_5_ppt.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/SSE/SSE_2_3_4_5_ppt.pdf"
         },
 		{
             "name": "Syllabus Of SSE",
@@ -13,7 +13,7 @@
             "category":"Portions|SSE",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_Syllabus.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/SSE/SSE_Syllabus.pdf"
         },
 		{
             "name": "Student Management System Example",
@@ -21,7 +21,7 @@
             "category":"Text-Example|SSE",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem4/SSE/SSE-student.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_student_example.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/SSE/SSE_student_example.pdf"
         },
 		{
             "name": "Software Engineering Text",
@@ -29,7 +29,7 @@
             "category":"Text|SSE",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem4/SSE/sse_txt.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/SSE/SSE_Text.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/SSE/SSE_Text.pdf"
         }
 	
     ]

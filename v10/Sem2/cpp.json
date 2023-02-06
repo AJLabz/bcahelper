@@ -5,7 +5,7 @@
 	    "category":"Portions| C++",
             "share":"Anonymous",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem2/CPP/cpp-notes.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/CPP/cpp-notes.pdf"
         },
 	{
             "name": "C++ Syllabus",
@@ -13,7 +13,7 @@
 	    "category":"Portions| C++",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem2/CPP/cpp_syllabus_sem2.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem2/CPP/cpp_syllabus_sem2.pdf"
         },
 	{
             "name": "C++ Classes and Objects (2nd module)",

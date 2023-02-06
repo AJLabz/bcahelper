@@ -5,7 +5,7 @@
             "category":"Syllabus",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/math.png",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem6/cloud/mod3_cloud.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/cloud/mod3_cloud.pdf"
         },
     {
             "name": "Cloud Computing 2nd Module Notes",
@@ -13,7 +13,7 @@
             "category":"Syllabus",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp.jpg",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem6/cloud/mod2_cloud.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/cloud/mod2_cloud.pdf"
         },
 	{
             "name": "Cloud Computing 5th Module Notes",
@@ -21,7 +21,7 @@
             "category":"Syllabus",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem6/cloud/mod5_cloud.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/cloud/mod5_cloud.pdf"
         },
 	{
             "name": "Cloud Computing Syllabus",
@@ -29,7 +29,7 @@
             "category":"Syllabus",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem6/cloud/cloud_syllabus.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/cloud/cloud_syllabus.pdf"
         }
 	
     ]

@@ -5,7 +5,7 @@
             "category":"Previous Year Question Paper",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/qu.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem1/cfd/cfd_qp_set.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/cfd/cfd_qp_set.pdf"
         },
 	{
             "name": "MODULE 3 NOTES",
@@ -13,7 +13,7 @@
             "category":"Notes",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem1/cfd/MODULE3-CFD-NOTES.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/cfd/MODULE3-CFD-NOTES.pdf"
         },
 	{
             "name": "MODULE 2 PPT NOTES",
@@ -21,7 +21,7 @@
             "category":"Notes",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/dbms.jpg",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem1/cfd/MODULE2-CFD-NOTES.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/cfd/MODULE2-CFD-NOTES.pdf"
         },
         {
             "name": "MODULE 1 PPT NOTES",
@@ -29,7 +29,7 @@
             "category":"Notes",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/coa.jpg",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem1/cfd/MODULE1-CFD-NOTES.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/cfd/MODULE1-CFD-NOTES.pdf"
         },
 	{
             "name": "Computer Fundamental Syllabus",
@@ -37,7 +37,7 @@
             "category":"Syllabus",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem1/cfd/cfd_syllabus.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem1/cfd/cfd_syllabus.pdf"
         }
 	
     ]

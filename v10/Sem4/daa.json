@@ -5,7 +5,7 @@
             "category":"Mod 1|DAA",
             "share":"Author Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD1_DAA.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/MOD1_DAA.pdf"
         },
 		{
             "name": "MODULE 2 Notes",
@@ -13,7 +13,7 @@
             "category":"Mod 2|DAA",
             "share":"Author Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD2_DAA.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/MOD2_DAA.pdf"
         },
 		{
             "name": "MODULE 3 Notes",
@@ -21,7 +21,7 @@
             " category":"Mod 3|DAA",
             "share":"Author Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD3_DAA.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/MOD3_DAA.pdf"
         },
 		{
             "name": "MODULE 4 Notes",
@@ -29,7 +29,7 @@
             "category":"Mod 4|DAA",
             "share":"Author Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD4_DAA.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/MOD4_DAA.pdf"
         },
 		{
             "name": "MODULE 5 Notes",
@@ -37,7 +37,7 @@
             "category":"Mod 5|DAA",
             "share":"Author Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD5_DAA.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/MOD5_DAA.pdf"
         },
         {
             "name": "Dynamic Programming & Applications",
@@ -45,7 +45,7 @@
             "category":"Mod 4|DAA",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD_4_dynamic_programming.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/MOD_4_dynamic_programming.pdf"
         },
         {
             "name": "Strassen Method And MST",
@@ -53,7 +53,7 @@
             "category":"Mod 3|MOD 2|DAA",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD3_DAA_greedy_fra_knapsack.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/MOD3_DAA_greedy_fra_knapsack.pdf"
         },
 	{
             "name": "Syllabus Of DAA",
@@ -61,7 +61,7 @@
             "category":"Portions|DAA",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/DAA_Syllabus.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/DAA_Syllabus.pdf"
         },
         {
             "name": "Previous Year Question Papers",
@@ -69,7 +69,7 @@
             "category":"QP|DAA",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem4/DAA/qu.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/DAA_question_papers.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/DAA_question_papers.pdf"
         },
 		{
             "name": "Greedy Algorithm & Fractional Knapsack",
@@ -77,7 +77,7 @@
             "category":"Mod 3|DAA",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem4/DAA/daamod3_greedy.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/DAA/MOD3_DAA_greedy_fra_knapsack.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/DAA/MOD3_DAA_greedy_fra_knapsack.pdf"
         }
 	
     ]

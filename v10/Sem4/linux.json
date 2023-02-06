@@ -6,7 +6,7 @@
             "category":"NOTES-1|Linux",
             "share":"User:George",
             "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/Linux/linux_notes_part1.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/Linux/linux_notes_part1.pdf"
         },
         {
             "name": "Syllabus Of Linux",
@@ -15,7 +15,7 @@
             "category":"Portions|Linux",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/Linux/Linux_Syllabus.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/Linux/Linux_Syllabus.pdf"
         },
 		{
             "name": "Previous Year Question Papers",
@@ -24,7 +24,7 @@
             "category":"QP|LINUX",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem4/DAA/qu.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/Linux/Linux_question_papers.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/Linux/Linux_question_papers.pdf"
         },
 		{
             "name": "Linux Bible Text",
@@ -33,7 +33,7 @@
             "category":"Text|Linux",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem4/Linux/linux_bible.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/Linux/linux_bible_text.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/Linux/linux_bible_text.pdf"
         }
 	
     ]

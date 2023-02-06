@@ -13,7 +13,7 @@
             "category":"Notes",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds2.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/BST_Notes.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/BST_Notes.pdf"
     },
 	{
             "name": "Trees Notes",
@@ -21,7 +21,7 @@
             "category":"Notes",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds1.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/Trees_Notes.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/Trees_Notes.pdf"
     },
 	{
             "name": "Concept of Queue [Text Segment]",
@@ -29,7 +29,7 @@
             "category":"Text|MOD-3",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds2.jpg",
-            "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/queue_reference.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/queue_reference.pdf"
     },
 	{
             "name": "Concept of Stack [Text Segment]",
@@ -37,7 +37,7 @@
             "category":"Text|MOD-2",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/ds1.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/stack_reference.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/stack_reference.pdf"
     },
 	{
             "name": "Concept of Stack",
@@ -45,7 +45,7 @@
             "category":"QUICK NOTE|MOD-2",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/v3/v3-gui/images/stack.jpg",
-			"download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem3/DSCPP/Stack_Notes.pdf"
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem3/DSCPP/Stack_Notes.pdf"
     },
 	{
             "name": "Concept of Structured Data",

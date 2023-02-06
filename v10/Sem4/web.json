@@ -5,7 +5,7 @@
             "category":"Notes|WEB",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
-	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/HTML-notes.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/PHP/HTML-notes.pdf"
      	},
 	{
             "name": "CSS PPT Notes",
@@ -13,7 +13,7 @@
             "category":"Notes|WEB",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
-	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/CSS-notes.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/PHP/CSS-notes.pdf"
      	},
 	{
             "name": "PHP PPT Notes",
@@ -21,7 +21,7 @@
             "category":"Notes|WEB",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/php-notes1.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/PHP/php-notes1.pdf"
      },
      {
             "name": "PHP MySQL PPT Notes",
@@ -29,7 +29,7 @@
             "category":"Notes|WEB",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
-	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/php-notes2.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/PHP/php-notes2.pdf"
      },
     {
             "name": "PHP OOPs PPT Notes",
@@ -37,7 +37,7 @@
             "category":"Notes|WEB",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
-	    "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/oops_php_notes.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/PHP/oops_php_notes.pdf"
      },
      {
             "name": "Quick Notes: MOD3,4,5",
@@ -45,7 +45,7 @@
             "category":"Quick Notes|WEB",
             "share":"Anonymous Share",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp5.jpg",
-			      "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/MOD3_4_5_PHP.pdf"
+			      "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/PHP/MOD3_4_5_PHP.pdf"
      },
 		{
             "name": "Syllabus Of Web Programming",
@@ -53,7 +53,7 @@
             "category":"Portions|WEB",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-			      "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/PHP_syllabus.pdf"
+			      "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/PHP/PHP_syllabus.pdf"
     },
 		
 		{
@@ -62,6 +62,6 @@
             "category":"Text|PHP5|Wiley",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem4/PHP/wileyphp.jpg",
-			      "download_link":"https://github.com/AJLabz/bcahelper/raw/master/resources/Sem4/PHP/php_text_wiley.pdf"
+			      "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/PHP/php_text_wiley.pdf"
     }
 ]
