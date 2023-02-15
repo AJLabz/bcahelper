@@ -1,4 +1,12 @@
-[	
+[
+	{
+            "name": "Cloud Computing 4th Module Notes",
+            "description": "This PDF contains Module 4 notes of Cloud Computing",
+            "category":"Note",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/math.png",
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem6/cloud/mod4_cloud.pdf"
+        },
     {
             "name": "Cloud Computing 3rd Module Notes",
             "description": "This PDF contains Module 3 notes of Cloud Computing",
