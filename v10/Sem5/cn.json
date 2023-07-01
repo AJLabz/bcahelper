@@ -5,7 +5,7 @@
 	    "category":"Notes",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
-	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/mod-3-cn-ppt.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/mod-3-cn-ppt.pdf"
         },
 	{
             "name": "Computer Network Module 2 PPT Notes",
@@ -13,7 +13,7 @@
 	    "category":"Notes",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
-	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/mod-2-cn-ppt.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/mod-2-cn-ppt.pdf"
         },
 	{
             "name": "Computer Network Module 1 PPT Notes",
@@ -21,7 +21,7 @@
 	    "category":"Notes",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
-	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/mod-1-cn-ppt.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/mod-1-cn-ppt.pdf"
         },
 	{
             "name": "Computer Network Previous Year Question Paper [Exclusive]",
@@ -29,7 +29,7 @@
 	    "category":"QP",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem5/qu.jpg",
-	    "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/network_2019_qp.pdf"
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/network_2019_qp.pdf"
         },
 	{
             "name": "Computer Network TextBook",
@@ -37,7 +37,7 @@
             "category":"Textbook",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/Sem5/cn-text.png",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/cn-text.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/cn-text.pdf"
         },
 	{
             "name": "Computer Network Syllabus",
@@ -45,7 +45,7 @@
             "category":"Syllabus",
             "share":"Admin",
             "img": "https://ajlabz.github.io/bcahelper/images/syllabus.jpg",
-            "download_link":"https://raw.githubusercontent.com/AJLabz/bcahelper/master/resources/Sem5/cn/cn_syllabus.pdf"
+            "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/cn_syllabus.pdf"
         }
 	
 ]
