@@ -1,4 +1,22 @@
 [
+	{
+            "name": "Linux Revision notes module 1",
+            "description": "This PDF contains revision notes of module 1",
+            
+            "category":"Revision NOTES|Linux",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
+		"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/Linux/Linux%20Module%201.pdf"
+        },
+	{
+            "name": "Linux Revision notes module 5",
+            "description": "This PDF contains revision notes of module 5",
+            
+            "category":"Revision NOTES|Linux",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
+		"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/Linux/Linux%20Module%205.pdf"
+        },
         {
             "name": "Linux PPT notes Part-1",
             "description": "This PDF contains full notes of Module1,3,4 and partial notes of Module 2,5 Rest of the notes will be uploaded soon..",
