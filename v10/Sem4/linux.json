@@ -1,5 +1,23 @@
 [
 	{
+            "name": "Linux Revision notes module 3",
+            "description": "This PDF contains revision notes of module 3",
+            
+            "category":"Revision NOTES|Linux",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
+		"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/Linux/Linux%20Module%203.pdf"
+        },
+	{
+            "name": "Linux Revision notes module 4",
+            "description": "This PDF contains revision notes of module 4",
+            
+            "category":"Revision NOTES|Linux",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-1.jpg",
+		"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/Linux/Linux%20Module%204.pdf"
+        },
+	{
             "name": "Linux Revision notes module 1",
             "description": "This PDF contains revision notes of module 1",
             
