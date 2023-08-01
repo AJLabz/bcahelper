@@ -1,7 +1,15 @@
 [
 	{
+            "name": "MOD 5 Previous Year questions & answers",
+            "description": "MOD 5 Previous Year questions & answers",
+            "category":"MOD 3|SSE",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/SSE/SASE_mod5.pdf"
+        },
+	{
             "name": "MOD 3 Previous Year questions & answers",
-            "description": "MOD 2ule Previous Year questions & answers",
+            "description": "MOD 3 Previous Year questions & answers",
             "category":"MOD 3|SSE",
             "share":"Author",
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
