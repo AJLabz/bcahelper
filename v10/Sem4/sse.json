@@ -1,5 +1,21 @@
 [
 	{
+            "name": "MOD 3 Previous Year questions & answers",
+            "description": "MOD 2ule Previous Year questions & answers",
+            "category":"MOD 3|SSE",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/SSE/SASE_mod3.pdf"
+        },
+	{
+            "name": "MOD 2 Previous Year questions & answers",
+            "description": "MOD 2ule Previous Year questions & answers",
+            "category":"MOD 2|SSE",
+            "share":"Author",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+			"download_link":"https://ajlabz.github.io/bcahelper/resources/Sem4/SSE/SASE_mod2.pdf"
+        },
+	{
             "name": "MOD 2,3,4,5 PPT NOTES",
             "description": "PPT Notes for SSE MODULE 2,3,4,5",
             "category":"MOD 2,3,4,5|SSE",
