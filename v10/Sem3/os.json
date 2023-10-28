@@ -1,5 +1,13 @@
 [
     {
+        "name": "Previous Year Question Papers",
+        "description": "Previous Year Question Papers from 2019 - 2022",
+        "categorie":"QP",
+        "share":"Author",
+        "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
+        "download_link":"https://drive.google.com/file/d/10Y4YoNWW1G6Hb9CzjDjzcvSoAtSZPCSZ/view?usp=sharing"
+    },
+    {
         "name": "Module 3 PPT notes part-2",
         "description": "PPT Notes of Module 3 part 2 Deadlock",
         "categorie":"note|OS",
