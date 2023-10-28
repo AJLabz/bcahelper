@@ -1,5 +1,13 @@
 [
 	{
+            "name": "Previous Year QPs",
+            "description": "Previous Year QPs from 2019 to 2022",
+            "category":"QP",
+            "share":"Admin",
+            "img": "https://ajlabz.github.io/bcahelper/images/dbms-2.png",
+            "download_link":"https://drive.google.com/file/d/1U6TveqE7Y-X-Cgz-lEcMbhrra-GTprpJ/view?usp=sharing"
+        },
+	{
             "name": "Unit 3: IT and Society",
             "description": "This PDF contains text abstract of unit 3 : IT and Society",
             "category":"Unit 3| ITE",
