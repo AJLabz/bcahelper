@@ -1,5 +1,13 @@
 [
     {
+        "name": "C Module 2 Note - BCA Resources Originals",
+        "description": "This PDF contains notes of module 2, C Programming",
+        "category": "Notes",
+        "share": "Admin",
+        "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+        "download_link": "https://ajlabz.github.io/bcahelper/resources/Hons/BCA/Sem1/C/C_Mod_2_BCA_Honours.pdf"
+    },
+    {
         "name": "C Module 1 Note - BCA Resources Originals",
         "description": "This PDF contains notes of module 1, C Programming",
         "category": "Notes",
