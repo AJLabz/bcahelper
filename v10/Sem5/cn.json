@@ -8,7 +8,47 @@
             "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
 	    "download_link":"https://drive.google.com/file/d/1sVhQdDF42oeDmunTQyKBEnJaupDmpQyl/view?usp=sharing"
         },
-	{
+        {
+            "name": "[New] Computer Network Module 5 Complete Notes",
+            "description": "Computer Network Module 5 Complete Notes from external source",
+	    "category":"Notes",
+            "share":"Students",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/cn_mod_5_complete.pdf"
+        },
+        {
+            "name": "[New] Computer Network Module 4 Complete Notes",
+            "description": "Computer Network Module 4 Complete Notes from external source",
+	    "category":"Notes",
+            "share":"Students",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/cn_mod_4_complete.pdf"
+        },
+        {
+            "name": "[New] Computer Network Module 3 Complete Notes",
+            "description": "Computer Network Module 3 Complete Notes from external source",
+	    "category":"Notes",
+            "share":"Students",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp3.jpg",
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/cn_mod_3_complete.pdf"
+        },
+        {
+            "name": "[New] Computer Network Module 2 Complete Notes",
+            "description": "Computer Network Module 2 Complete Notes from external source",
+	    "category":"Notes",
+            "share":"Students",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp2.jpg",
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/cn_mod_2_complete.pdf"
+        },
+        {
+            "name": "[New] Computer Network Module 1 Complete Notes",
+            "description": "Computer Network Module 1 Complete Notes from external source",
+	    "category":"Notes",
+            "share":"Students",
+            "img": "https://ajlabz.github.io/bcahelper/images/cpp1.jpg",
+	    "download_link":"https://ajlabz.github.io/bcahelper/resources/Sem5/cn/cn_mod_1_complete.pdf"
+        },
+        {
             "name": "Computer Network Module 3 PPT Notes",
             "description": "Computer Network Module 3 PPT Notes from external source",
 	    "category":"Notes",
